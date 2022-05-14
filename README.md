@@ -12,6 +12,6 @@
     pip install -r requirements.txt
     
 
-### Freez packages in requirements.txt
+### freez packages
 
     pip freeze > requirements.txt
